@@ -85,6 +85,9 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Statistics</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="more.php">Learn More</a>
+          </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <div class="search_icon"><a href="#"><img src="images/search-icon.png"></a></div>
@@ -94,8 +97,10 @@
   </div>
   <!-- header section end -->
  
-  <center> <img src="2.jpg" alt="Trulli" width="500" height="333">></center><br><br>
-  <center> <img src="1.jpg" alt="Trulli" width="500" height="333">></center>
+  <center> <img src="2.jpg" alt="Trulli" width="800" height="555">></center><br><br>
+  <center> <img src="1.jpg" alt="Trulli" width="800" height="55">></center>
+
+  <center> <img src="images/poster.jpg" alt="Trulli" width="1000" height="1300">></center>
   
 
 

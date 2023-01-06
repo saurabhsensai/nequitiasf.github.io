@@ -85,6 +85,11 @@
           <li class="nav-item">
             <a class="nav-link" href="sta.php">Statistics</a>
           </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="more.php">Learn More </a>
+          </li>
+
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <div class="search_icon"><a href="#"><img src="images/search-icon.png"></a></div>
@@ -232,8 +237,56 @@
           <a href="https://www.rapido.bike/" class="button" target="_blank" rel="noopener noreferrer">Book a Bike</a>
 
         </div>
-        <div class="shortcode_right"><img src="images/img-3.png"></div>
+        <div class="shortcode_right"><img src="images/rapido.png"></div>
       </div>
+
+
+
+      <div class="shortcode_section_2">
+        <div class="shortcode_right"><img src="images/ir.png"></div>
+        <div class="shortcode_left border_left_0">
+          <h1 class="heading_text">IRCTC</h1>
+          
+          <a href="https://www.irctc.co.in/nget/train-search" class="button" target="_blank" rel="noopener noreferrer">Book a Train Ticket</a>
+         
+        </div>
+      </div>
+
+
+      <div class="shortcode_section_2">
+        <div class="shortcode_left">
+          <h1 class="heading_text">Make My Trip</h1>
+          <a href="https://www.makemytrip.com/flights/" class="button" target="_blank" rel="noopener noreferrer">Book a Plain Ticket  </a>
+
+        </div>
+        <div class="shortcode_right"><img src="images/mkm.png"></div>
+      </div>
+
+
+      
+      <div class="shortcode_section_2">
+        <div class="shortcode_right"><img src="images/cour.png"></div>
+        <div class="shortcode_left border_left_0">
+          <h1 class="heading_text">Coursera</h1>
+          
+          <a href="https://www.coursera.org/" class="button" target="_blank" rel="noopener noreferrer">Explore More Courses</a>
+         
+        </div>
+      </div>
+
+
+      <div class="shortcode_section_2">
+        <div class="shortcode_left">
+          <h1 class="heading_text">Udemy</h1>
+          <a href="https://www.udemy.com/" class="button" target="_blank" rel="noopener noreferrer">Learn Technical Things  </a>
+
+        </div>
+        <div class="shortcode_right"><img src="images/udemy.png"></div>
+      </div>
+
+
+
+
 
 
 
