@@ -1,1 +1,0 @@
-# nequitiasf.github.io
